@@ -4,5 +4,5 @@
 <h1>Airbus Beluga XL</h1>
 <img src="https://live.staticflickr.com/65535/47968377973_bf404bd56a_b.jpg" alt="airbus beluga XL">
 <h1>Stratolaunch</h1>
-<img src="[[https://live.staticflickr.com/65535/47968377973_bf404bd56a_b.jpg](https://dn9tckvz2rpxv.cloudfront.net/stratolaunch/img2/location-mojave-2.jpg)](https://media13.s-nbcnews.com/i/mpx/2704722219/2021_04/STRATOLAUNCH.jpg)" alt="stratolaunch">
+<img src="https://live.staticflickr.com/4752/39233090174_445a804bfd_b.jpg" alt="stratolaunch">
 https://simpleflying.com/largest-planes-ever-made/
