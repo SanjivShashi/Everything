@@ -8,3 +8,6 @@
 https://simpleflying.com/largest-planes-ever-made/
 <button type="button" onclick="alert('Hello world!')">Click Me!</button>
 <meta http-equiv="Refresh" content="0; url='https://www.w3docs.com'" />
+<a href="http://www.google.com/">
+   <button>Visit Google</button>
+</a>
