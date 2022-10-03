@@ -5,7 +5,7 @@
 <img src="https://live.staticflickr.com/65535/47968377973_bf404bd56a_b.jpg" alt="airbus beluga XL">
 <h1>Stratolaunch</h1>
 <img src="https://live.staticflickr.com/4752/39233090174_445a804bfd_b.jpg" alt="stratolaunch">
-https://simpleflying.com/largest-planes-ever-made/
+
 <button type="button" onclick="alert('Hello world!')">Click Me!</button>
 
 <a href="https://simpleflying.com/largest-planes-ever-made/">
