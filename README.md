@@ -6,3 +6,4 @@
 <h1>Stratolaunch</h1>
 <img src="https://live.staticflickr.com/4752/39233090174_445a804bfd_b.jpg" alt="stratolaunch">
 https://simpleflying.com/largest-planes-ever-made/
+<button type="button" onclick="alert('Hello world!')">Click Me!</button>
